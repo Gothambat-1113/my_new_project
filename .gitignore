@@ -1,0 +1,11 @@
+# Ignore compiled executable binaries
+ray
+solar
+solar_2
+solution
+binary_search/binary
+binary_search/hello
+minimal-password-gen/minimal-pw
+
+# Ignore temporary save files
+*.save
