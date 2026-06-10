@@ -1,0 +1,5 @@
+int <stdlib.h>
+
+int sz; 
+int i , j , k , 1; 
+int where = 0 , len = 0 
